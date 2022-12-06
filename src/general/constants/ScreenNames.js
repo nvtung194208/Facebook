@@ -5,4 +5,12 @@ export default ScreenNames = {
   menuScreen: 'MenuScreen',
   notificationScreen: 'NotificationScreen',
   videoScreen: 'VideoScreen',
+
+  //login screens
+  loginScreen: 'LoginScreen',
+  existAccScreen: 'ExistAccScreen',
+  loginWithExistAccScreen: 'LoginWithExistAccScreen',
+
+  //Signup
+  signupScreen: 'SignupScreen'
 }

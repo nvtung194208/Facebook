@@ -14,7 +14,7 @@ import Icon from 'react-native-vector-icons/FontAwesome'
 
 export default function HomeScreen(props) {
   console.log('HomeScreen is rendering !!!!')
-
+  console.log(props)
   return (
     <View style={{ flex: 1 }}>
       <SafeAreaView>
